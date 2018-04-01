@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/iconic/vendor/magento/module-customer/view/frontend/web/js/section-config.js

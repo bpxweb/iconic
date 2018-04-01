@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/iconic/lib/web/mage/storage.js

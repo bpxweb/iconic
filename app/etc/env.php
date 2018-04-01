@@ -6,11 +6,11 @@ return array (
   ),
   'install' => 
   array (
-    'date' => 'Sun, 01 Apr 2018 12:21:51 +0000',
+    'date' => 'Sun, 01 Apr 2018 12:51:10 +0000',
   ),
   'crypt' => 
   array (
-    'key' => '8974d26550374aaaf7191014c5e0fd80',
+    'key' => '86da5e5e0a8dc462a804b07b6c04517e',
   ),
   'session' => 
   array (
@@ -24,7 +24,7 @@ return array (
       'default' => 
       array (
         'host' => 'localhost',
-        'dbname' => '57559_test',
+        'dbname' => 'iconicDB',
         'username' => 'root',
         'password' => 'root',
         'active' => '1',

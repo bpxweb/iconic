@@ -77,9 +77,9 @@ class Add extends \Magento\Checkout\Controller\Cart
      */
     public function execute()
     {
-        if (!$this->_formKeyValidator->validate($this->getRequest())) {
-            return $this->resultRedirectFactory->create()->setPath('*/*/');
-        }
+        //if (!$this->_formKeyValidator->validate($this->getRequest())) {
+        //    return $this->resultRedirectFactory->create()->setPath('*/*/');
+        //}
 
         $params = $this->getRequest()->getParams();
         try {
